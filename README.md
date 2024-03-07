@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=FFFFFF)
-![Codeforces](https://img.shields.io/badge/Codeforces_PatoPerdido-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=FFFFFF)
+![Codeforces](https://img.shields.io/badge/Codeforces_PatoPerdido-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&link=https://codeforces.com/profile/PatoPerdido)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 
 ## Programming languages
