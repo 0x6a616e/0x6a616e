@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=FFFFFF)
-![Codeforces](https://img.shields.io/badge/Codeforces-PatoPerdido-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&link=https://codeforces.com/profile/PatoPerdido)
+![Codeforces](https://img.shields.io/badge/Codeforces-PatoPerdido?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&labelColor=1F8ACB&link=https://codeforces.com/profile/PatoPerdido)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF)
