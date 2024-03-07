@@ -8,6 +8,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=FFFFFF)
 ![Codeforces](https://img.shields.io/badge/Codeforces_PatoPerdido-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=FFFFFF&link=https://codeforces.com/profile/PatoPerdido)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=FFFFFF)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF)
 
 ## Programming languages
@@ -15,3 +17,8 @@
 ## Frameworks
 ## Tools
 ## Operating systems
+
+# Contact
+
+Email
+Discord
