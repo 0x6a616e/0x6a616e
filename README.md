@@ -43,9 +43,3 @@
 ### Linux Distributions
 
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=FFFFFF)
-
-<!-- # Contact -->
-<!---->
-<!-- Email -->
-<!-- Discord -->
-<!-- Maybe telegram/signal?? -->
